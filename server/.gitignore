@@ -1,0 +1,11 @@
+**/node_modules
+**/.serverless
+**/.webpack
+
+**/.env
+**/.env.*
+
+**/secret.pem
+
+.DS_Store
+Thumbs.db

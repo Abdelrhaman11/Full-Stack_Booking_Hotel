@@ -1,0 +1,11 @@
+.ant-select-selector{
+  height: 50px;
+}
+
+.ant-select-selection-placeholder , .ant-select-selection-item{
+  margin-top: 5px;
+}
+
+.btn-square{
+  border-radius: 0;
+}
